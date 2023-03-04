@@ -4,10 +4,10 @@ L'opérateur « ou exclusif » entre deux bits renvoie 0 si les deux bits sont �
 sont différents. Il est symbolisé par le caractère ⊕.
 Ainsi :
 
- 0 ⊕ 0 = 0
- 0 ⊕ 1 = 1
- 1 ⊕ 0 = 1
- 1 ⊕ 1 = 0
+- 0 ⊕ 0 = 0
+- 0 ⊕ 1 = 1
+- 1 ⊕ 0 = 1
+- 1 ⊕ 1 = 0
 
 On représente ici une suite de bits par un tableau contenant des 0 et des 1.
 Exemples :
